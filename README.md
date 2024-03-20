@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+About android and ios  Notifycation Demo.
 
-This project is a starting point for a Flutter application.
+关于android和ios的《系统消息推送功能》Demo。
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Relate Video(教学视频):
+Youtube: https://studio.youtube.com/video/QXQEmHZrUco/edit
+Bilibili: https://www.bilibili.com/video/BV1uk4y1U7EQ/
